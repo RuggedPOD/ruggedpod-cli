@@ -32,5 +32,9 @@ def ruggedpod(ctx, api_url, username, password):
     pass
 
 
-if __name__ == '__main__':
+def main():
     ruggedpod(obj={})
+
+
+if __name__ == '__main__':
+    main()
